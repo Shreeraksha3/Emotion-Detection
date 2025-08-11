@@ -75,8 +75,9 @@ The goal is to develop an accurate and efficient system that can detect human em
 
 | Input Image | Predicted Emotion |
 |-------------|-------------------|
-| ![Happy](docs/happy.jpg) 😀 | Happy 😀 |
-| ![Sad](docs/sad.jpg) 😢     | Sad 😢 |
+| ![Happy](docs/happy.jpg)  | Happy 😀 |
+| ![Sad](docs/sad.jpg)      | Sad 😢 |
+
 
 
 
