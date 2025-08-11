@@ -49,8 +49,8 @@ The goal is to develop an accurate and efficient system that can detect human em
 2. **Create and activate a virtual environment**
    ```bash
    python -m venv venv
-source venv/bin/activate   # For Linux/Mac
-venv\Scripts\activate      # For Windows
+   source venv/bin/activate   # For Linux/Mac
+   venv\Scripts\activate      # For Windows
 3. **Install dependencies**
 ```bash
 pip install -r requirements.txt
@@ -71,3 +71,4 @@ Evaluate accuracy
 
 Predict emotions on new images
 ---
+
