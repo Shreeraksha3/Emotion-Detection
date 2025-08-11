@@ -32,3 +32,42 @@ The goal is to develop an accurate and efficient system that can detect human em
 ---
 
 ## 📂 Project Structure
+📁 /dataset # Dataset for training and testing
+📁 /models # Saved trained models
+📄 Emotion_Detection.ipynb # Jupyter Notebook with full code
+📄 README.md # Project documentation
+
+
+---
+
+## 🚀 Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/<your-username>/<repo-name>.git
+   cd <repo-name>
+2. **Create and activate a virtual environment**
+   ```bash
+   python -m venv venv
+source venv/bin/activate   # For Linux/Mac
+venv\Scripts\activate      # For Windows
+3. **Install dependencies**
+```bash
+pip install -r requirements.txt
+4. **Run Jupyter Notebook**
+```bash
+jupyter notebook Emotion_Detection.ipynb
+
+---
+## 🧪 Usage
+- Open the Emotion_Detection.ipynb notebook.
+- Run all cells to:
+
+Load and preprocess the dataset
+
+Train the model
+
+Evaluate accuracy
+
+Predict emotions on new images
+---
