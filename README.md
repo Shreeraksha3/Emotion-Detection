@@ -32,10 +32,10 @@ The goal is to develop an accurate and efficient system that can detect human em
 ---
 
 ## 📂 Project Structure
-📁 /dataset # Dataset for training and testing
-📁 /models # Saved trained models
-📄 Emotion_Detection.ipynb # Jupyter Notebook with full code
-📄 README.md # Project documentation
+- 📁 /dataset # Dataset for training and testing
+- 📁 /models # Saved trained models
+- 📄 Emotion_Detection.ipynb # Jupyter Notebook with full code
+- 📄 README.md # Project documentation
 
 
 ---
@@ -77,6 +77,7 @@ The goal is to develop an accurate and efficient system that can detect human em
 |-------------|-------------------|
 | ![Happy](docs/happy.jpg)  | Happy 😀 |
 | ![Sad](docs/sad.jpg)      | Sad 😢 |
+
 
 
 
