@@ -71,9 +71,13 @@ The goal is to develop an accurate and efficient system that can detect human em
 - ResNet50 achieved higher accuracy compared to VGG16 in our experiments.
 - Training and validation accuracy/loss plots are included in the notebook for comparison.
 
-📸 Example Output
-Input Image	Predicted Emotion
-            Happy
-            Sad
+## 📸 Example Output
+
+| Input Image | Predicted Emotion |
+|-------------|-------------------|
+| ![Happy](docs/happy.jpg) | Happy |
+| ![Sad](docs/sad.jpg)     | Sad   |
+
+
 
 
