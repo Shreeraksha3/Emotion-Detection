@@ -52,23 +52,28 @@ The goal is to develop an accurate and efficient system that can detect human em
    source venv/bin/activate   # For Linux/Mac
    venv\Scripts\activate      # For Windows
 3. **Install dependencies**
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 4. **Run Jupyter Notebook**
-```bash
-jupyter notebook Emotion_Detection.ipynb
+   ```bash
+   jupyter notebook Emotion_Detection.ipynb
 
 ---
 ## 🧪 Usage
 - Open the Emotion_Detection.ipynb notebook.
 - Run all cells to:
-
-Load and preprocess the dataset
-
-Train the model
-
-Evaluate accuracy
-
-Predict emotions on new images
+- Load and preprocess the dataset
+- Train the model
+- Evaluate accuracy
+- Predict emotions on new images
 ---
+## 📈 Model Performance
+- ResNet50 achieved higher accuracy compared to VGG16 in our experiments.
+- Training and validation accuracy/loss plots are included in the notebook for comparison.
+
+📸 Example Output
+Input Image	Predicted Emotion
+            Happy
+            Sad
+
 
